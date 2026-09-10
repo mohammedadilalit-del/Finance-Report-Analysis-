@@ -13,7 +13,7 @@ An Excel-based P&L analysis project focused on evaluating financial performance 
 → Compared performance across financial years
 → Used filters to analyze regions, sub-zones, and financial years
 ## Images 
-[P & L Year ] ( P&L year (market ).pdf)
+![P & L Year ]( P&L year (market ).pdf)  
 
 ## 🛠️ Tools Used
 
