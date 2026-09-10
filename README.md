@@ -1,4 +1,4 @@
-# 📊Sales & Market Analysics
+# 📊Finance Analysics
 
 ## 📌 Project Overview
 
