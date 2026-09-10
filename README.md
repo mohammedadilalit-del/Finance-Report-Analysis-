@@ -137,15 +137,6 @@ A market with **lower sales but higher GM%** may have better profitability effic
 
 Therefore, looking at both **Sales and GM% together** provides better insight than looking at sales alone.
 
----
-
-# 📁 Project Files
-
-→ `assignment_solution.xlsx` – Excel workbook containing the P&L and Gross Margin analysis
-
-→ `README.md` – Project documentation
-
----
 
 # 🎯 Key Learning Outcomes
 
